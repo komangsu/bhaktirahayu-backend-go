@@ -1,0 +1,8 @@
+# file system
+.DS_Store
+
+# env files
+.env
+
+# ignore for backend
+gin-bin
